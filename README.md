@@ -86,7 +86,7 @@ You can run the analysis tasks either locally or using Docker.
 3. **Verify the Outputs**:
    Check the `outputs/` directory for the resulting files:
    ```bash
-   ls outputs/
+   ls outputs/spark-submit src/task2_engagement_by_age.py
    ```
 
 #### **b. Running with Docker (Optional)**
